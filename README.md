@@ -8,3 +8,5 @@ The project demonstrates the ability to work with the pygame library, as well as
 The repository also includes small experimental pygame projects in the following folders: fire_tank_game, goalkeeper, just_screen_game, rocketman, starsky.
 
 The game is launched from the alien_invasion.py file, which initializes the game and interface elements.
+
+You can find screenshots of the project in the Screenshots folder.
